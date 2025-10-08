@@ -1,0 +1,24 @@
+branch: quest-dragon
+
+Sir Git de Dappere hoorde dat een draak het dorp bedreigde.
+Met enkel een houten schild trok ze de bergen in.
+Na drie dagen vond ze het beest, maar het bleek... vegetarisch!
+Ze bood de draak een mand broccoli aan en redde het koninkrijk.
+
+branch: quest-treasure
+
+Ridder Bart vond een oude kaart in de bibliotheek van Gitland.
+De X leidde naar een verlaten repository vol vergeten code.
+Na uren graven ontdekte hij een gouden commit vol bugfixes.
+Het rijk vierde feest: stabiliteit was hersteld!
+
+branch: quest-wizard
+
+Tovenares Mira probeerde een spreuk om de tijd terug te draaien.
+Maar per ongeluk maakte ze een nieuwe branch van het verleden.
+De geschiedenis veranderde — oude fouten kwamen terug als merge conflicts!
+Gelukkig wist ze de orde te herstellen.
+
+Samenvatting story.txt:
+
+Sir Git temde de draak met een verrassend aanbod van groenten.
